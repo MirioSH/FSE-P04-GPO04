@@ -12,6 +12,7 @@ Sistema de control para una máquina expendedora de **2 productos**, construido 
 - Trujillo
 - Urzua
 
+---
 
 ## Descripción General
 
