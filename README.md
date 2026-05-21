@@ -9,7 +9,7 @@ Sistema de control para una máquina expendedora de **2 productos**, construido 
 ## Integrantes del equipo
 - Arroyo
 - Soto Huerta Gustavo Isaac
-- Trujillo
+- Trujillo Salazar Wendy Jazmin
 - Urzua
 
 ---
